@@ -50,9 +50,6 @@
     - Swagger
     - Lombok
     - Stream API
-* SQL:
-    - PostgreSQL
-    - Liquibase
 * Test:
     - Mockito
 
