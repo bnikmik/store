@@ -49,7 +49,6 @@
     - REST
     - Swagger
     - Lombok
-    - Stream API
 * Test:
     - Mockito
 
